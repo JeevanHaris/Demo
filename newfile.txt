@@ -1,0 +1,3 @@
+here is how you can pull a file from github to vs code
+git status
+git pull
